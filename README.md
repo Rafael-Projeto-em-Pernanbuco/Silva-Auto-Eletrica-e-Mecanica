@@ -101,7 +101,7 @@
             <a href="https://www.kwai.com" target="_blank">Kwai</a>
             <a href="https://telegram.org" target="_blank">Telegram</a>
             <a href="https://tiktok.com" target="_blank">TikTok</a>
-            <a href="https://wa.me/5587999999999" target="_blank">WhatsApp</a>
+            <a href="https://wa.me/5587999019099" target="_blank">WhatsApp</a>
         </div>
 
         <section id="anuncios">
